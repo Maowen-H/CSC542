@@ -1,0 +1,12 @@
+Initializing Atari Emulator for Full EDA...
+Collecting up to 5000 frames...
+Collected 5000 frames.
+Sample frames saved to output/sample_frames.png
+Histogram saved to output/histogram.png
+Stats plot saved to output/stats.png
+Total Frames: 5000
+Mean Pixel Value: 0.1356
+Std Dev: 0.2147
+Min Pixel Value: 0.0
+Max Pixel Value: 0.5568627450980392
+
